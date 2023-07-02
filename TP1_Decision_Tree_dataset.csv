@@ -1,0 +1,8 @@
+patient,fever,vomiting,diarrhea,shivering,class
+P1,no,no,no,no,healthy (H)
+P2,average,no,no,no,influenza (I)
+P3,high,no,no,yes,influenza (I)
+P4,high,yes,yes,no,salmonella poisoning (S)
+P5,average,no,yes,no,salmonella poisoning (S)
+P6,no,yes,yes,no,bowel inflammation (B)
+P7,average,yes,yes,no,bowel inflammation (B)
